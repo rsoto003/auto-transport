@@ -1,3 +1,9 @@
 * {
     background-color: pink;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: grey
 }
