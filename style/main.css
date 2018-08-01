@@ -1,1 +1,6 @@
 
+.container {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: 30% auto 30%;;
+}
