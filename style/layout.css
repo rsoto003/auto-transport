@@ -71,7 +71,14 @@ header > div {
      font-weight: 400;  
     text-align: right;
  }
-
+ .header-social-icon {
+     display: flex;
+     flex-direction: row;
+     width: 15%;
+ }
+.header-social-icon > img {
+    width: 24px;
+}
 
 /* container items styling */
 
