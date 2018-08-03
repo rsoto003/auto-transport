@@ -74,11 +74,9 @@ header > div {
  .header-social-icon {
      display: flex;
      flex-direction: row;
-     width: 15%;
+     width: 10%;
  }
-.header-social-icon > img {
-    width: 24px;
-}
+
 
 /* container items styling */
 
