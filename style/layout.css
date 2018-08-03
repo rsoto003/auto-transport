@@ -14,9 +14,7 @@ header {
     flex-direction: row;
     justify-content: flex-start;
 }
-header > div {
-    width: 100%;
-}
+
 
 .logo {
     width: 18%;
@@ -71,10 +69,10 @@ header > div {
      font-weight: 400;  
     text-align: right;
  }
- .header-social-icon {
-     display: flex;
-     flex-direction: row;
-     width: 10%;
+ .header-social-icons {
+    width: 10%;
+    display: flex;
+    flex-direction: row;
  }
 
 
