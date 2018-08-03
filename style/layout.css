@@ -40,6 +40,8 @@ header > div {
     border: 1px solid #B62219;
     border-radius: 5px;
     margin: 20px 20px 0px 30px;
+    border-color: rgb(141, 12, 4);
+    border-width: 2px;
  }
  header > a {
     color: #B62219;
