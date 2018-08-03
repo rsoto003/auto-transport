@@ -44,6 +44,7 @@ header {
     background-color: blue;
     color: white;
     font-size: 18px;
+    display: inline-block;
 }
 
 .nav-bar {
@@ -60,3 +61,7 @@ header {
     color: white;
     font-size: 18px;
 }
+
+.logo {
+    float: left;
+}   
