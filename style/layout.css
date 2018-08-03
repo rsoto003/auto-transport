@@ -9,6 +9,7 @@
 }
 /*      *    header styling     *   */
 header {
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -16,7 +17,8 @@ header {
 header > div {
     width: 100%;
 }
-header > div > img {
+
+.logo {
     width: 15%;
     padding: 20px 0px;
 }
@@ -38,7 +40,8 @@ header > div > img {
     height: 50px;
     background-color:#B62219;
     text-align: center;
-    vertical-align: middle;
+    margin: 0;
+    padding-top: 15px;
  
 }
 .nav-bar > a {
