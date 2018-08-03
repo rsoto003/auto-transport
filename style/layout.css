@@ -18,6 +18,7 @@
     height: 50px;
     background-color:#B62219;
     text-align: center;
+    vertical-align: middle;
  
 }.nav-bar > a {
     color: white;
@@ -30,5 +31,20 @@
 }
 
 .nav-bar > .search-bar {
-    
+    background-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(234, 234, 234);
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 0px;
+    border-bottom-style: solid;
+    /* float: left; */
+    height: 32px;
+    display: inline-block;
+    width: 10%;
+}
+
+.nav-bar > button {
+    width: 5%;
+    background-color: grey;
+    color: white;
+    height: 34px;
 }
