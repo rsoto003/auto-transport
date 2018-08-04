@@ -4,7 +4,6 @@
 /* container styling */
 .container {
     width: 100%;
-    height: 500px;
     display: inline-block;
 }
 /*      *    header styling     *   */
@@ -53,7 +52,7 @@ header {
     padding: 0;
     text-align: left;
     text-decoration-style: solid;
-    margin: 20px 5pxg;
+    margin: 14px 5px;
  }
  .email {
      width: 26%;
@@ -68,12 +67,19 @@ header {
      line-height: 28px;
      font-weight: 400;  
     text-align: right;
+    margin: 14px 5px;
  }
  .header-social-icons {
     width: 10%;
     display: flex;
     flex-direction: row;
  }
+ .header-social-icons > img {
+    height: 24px;
+ }
+ /* header > div, button, a  {
+     margin-top: 25px;
+ } */
 
 
 /* container items styling */
@@ -84,7 +90,6 @@ header {
     height: 50px;
     background-color:#B62219;
     text-align: center;
-    margin: 0;
     padding-top: 15px;
  
 }
