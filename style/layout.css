@@ -70,13 +70,14 @@ header {
     margin: 14px 5px;
  }
  .header-social-icons {
-    width: 10%;
+    width: 5%;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
  }
- .header-social-icons > img {
+ /* .header-social-icons > img {
     height: 24px;
- }
+ } */
  /* header > div, button, a  {
      margin-top: 25px;
  } */
