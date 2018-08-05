@@ -74,6 +74,10 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    height: 50px;
+    padding: 1px;
+    margin-left: 0.5%;
+    margin-top: 14px;
  }
  /* .header-social-icons > img {
     height: 24px;
