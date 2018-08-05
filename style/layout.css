@@ -143,3 +143,10 @@ header {
     border-radius: 0;
     margin-bottom: 0;
 }
+.left-side-bar {
+    display: flex;
+    width: 18%;
+    border: 1px solid black;
+    height: 500px;
+    margin-left: 50px;
+}
