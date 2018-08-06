@@ -150,7 +150,7 @@ header {
 .left-side-bar {
     display: flex;
     flex-direction: column;
-    width: 18%;
+    width: 20%;
     border: 1px solid black;
     height: 500px;
     margin-left: 50px;
@@ -159,22 +159,22 @@ header {
     list-style-type: none;
     margin: 3px;
     padding: 3px;
-    width: 80%;
+    width: 95%;
     border: 1px solid blue;
-    height: 125px;
+    height: 300px;
     background-color: #ebebeb;
     text-align: left; 
 }
- ul > div a  {
+ ul > div a {
     display: block;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color:  #B62219;
-    /* padding: 8px 16px; */
+    padding: 8px 16px;
     text-decoration: none;
-    padding: 13px 15px 13px 50px;
+    padding: 13px 15px 13px 15px;
     border: 1px solid black;
     height: 20px;
-    padding: 5px;
+    width: 80%;
 }
 
 ul > div a:hover {
