@@ -221,6 +221,10 @@ ul > div a:hover {
     width: 90%;
 }
 .left-side-logo > img {
+    margin-top: 15px;
     height: 99px;
     width: 125px;
+}
+.left-side-logo > img:nth-child(3n+3) {
+    margin: 10px 65px;
 }
