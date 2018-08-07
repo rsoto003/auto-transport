@@ -271,10 +271,10 @@ ul > div a:hover {
     display: flex;
     flex-direction: row;
     width: 100%;
+    margin: 10px 80px;
 }
 .footer-widget-container > div {
     width: 18%;
     border: 1px solid black;
     height: 300px;
-    margin: 10px 60px;
 }
