@@ -281,6 +281,10 @@ ul > div a:hover {
     height: 300px;
     background-color: #8d0c05;
     text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding: 15px;
     
 }
 .footer-widget-container > div:nth-child(2n){
