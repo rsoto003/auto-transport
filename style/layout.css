@@ -198,13 +198,14 @@ ul > div a:hover {
     text-decoration-line: underline;
 }
 .widget-title {
+    box-sizing: border-box;
     color: white;
     background-color: #B62219;
     border: 1px solid white;
-    width: 95%;
+    width: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    height: 65px;
-    padding: 0;
+    /* height: 65px; */
+    padding: 10px;
     text-align: center;
     font-size: 100%;
     vertical-align: baseline;
@@ -227,4 +228,14 @@ ul > div a:hover {
 }
 .left-side-logo > img:nth-child(3n+3) {
     margin: 10px 65px;
+}
+.entry-title {
+
+}
+
+.entry-title > a {
+    color: #B62219;
+    text-decoration-line: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
 }
