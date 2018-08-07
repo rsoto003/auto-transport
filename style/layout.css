@@ -152,7 +152,7 @@ header {
     flex-direction: column;
     width: 20%;
     border: 0.5px solid white;
-    height: 500px;
+    height: 100%;
     margin-left: 50px;
 }
 .left-side-bar > ul {
