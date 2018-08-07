@@ -98,11 +98,11 @@ header {
 
 .nav-bar {
     width: 100%;
-    height: 50px;
+    height: 40px;
     background-color:#B62219;
     text-align: center;
     border-left: 10px solid #B62219;
-    /* padding-top: 15px; */
+    padding: 5px;
  
 }
 .nav-bar > a {
