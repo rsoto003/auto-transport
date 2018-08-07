@@ -232,7 +232,15 @@ ul > div a:hover {
     margin: 10px 65px;
 }
 .entry-title {
-
+    /* background: transparent !important; */
+    font-size: 16px !important;
+    text-align: left !important;
+    line-height: normal;
+    padding: 10px 15px;
+    margin: 0px;
+    background-color: #e5e3e3;
+    width: 90%;
+    border-bottom: 3px solid #B62219;
 }
 
 .entry-title > a {
@@ -240,4 +248,12 @@ ul > div a:hover {
     text-decoration-line: none;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
+}
+.blog-post > img  {
+    margin-top: 15px;
+}
+
+.home-blog-news-button > a {
+    color: white;
+    text-decoration-line: none;
 }
