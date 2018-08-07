@@ -301,3 +301,21 @@ ul > div a:hover {
     padding-top: 15px;
     float: none;
 }
+.footer-widget-container > div > h3 > span {
+    font-size: 15px;
+}
+
+.main-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.center-content {
+    display: flex;
+    width: 50%;
+    height: 500px;
+    border: 1px solid black;
+    background-color: red;
+}
