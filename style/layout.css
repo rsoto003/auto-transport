@@ -308,8 +308,7 @@ ul > div a:hover {
 .main-content {
     width: 100%;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;  
 }
 
 .center-content {
@@ -318,4 +317,17 @@ ul > div a:hover {
     height: 500px;
     border: 1px solid black;
     background-color: red;
+}
+.right-content {
+    display: flex;
+    width: 20%;
+    height: 500px;
+    border: 2px solid green;
+    margin: 10px 40px 10px 20px;
+}
+.slideshow-container {
+    border: 1px solid black;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
 }
