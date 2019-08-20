@@ -1,0 +1,11 @@
+.traffic {
+    background-image: url("../auto-images/daylapse.gif");
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+
+.logoBtn {
+    background-color: orange;
+    border: 1px solid orange;
+}
