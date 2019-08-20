@@ -2,10 +2,19 @@
     background-image: url("../auto-images/daylapse.gif");
     background-size: cover;
     width: 100%;
-    margin: 0;
 }
 
 .logoBtn {
-    background-color: orange;
-    border: 1px solid orange;
+    background-color: rgb(242, 103, 34);
+    border: 1px solid rgb(242, 103, 34);
+    color: white;
+}
+.logoBtn:hover {
+    color: black;
+}
+.navbar {
+    border-bottom: 4px solid rgb(242, 103, 34);
+}
+div  > ul > li:hover {
+    background-color: rgb(242, 103, 34);
 }
